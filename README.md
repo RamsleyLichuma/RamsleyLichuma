@@ -38,40 +38,39 @@ Building the Future:
 I'm passionate about using my skills to create innovative web applications that solve real-world problems  and enhance user experiences  (Consider adding a small image of a globe or a handshake).
 
 Here's some Proffessional info about me👽
-
 from dataclasses import dataclass
 from typing import Sequence
 
-
 @dataclass(frozen=True)
 class Portfolio:
-    name: str = 'Ramlsey Lichuma'
-    location: str = 'Webuye Kenya'
-    profile: str = 'Php, Angular Dev, React Dev'
-    experience: str = '2+ years'
-    hobbies: Sequence[str] = 'Novels', 'Basketball', 'open source', 'Hikes', 'clean code'
+    name: str = 'Laban Kiplagat'
+    location: str = 'Nairobi Kenya'
+    profile: str = 'Python-Django Developer, Linux User, React Dev'
+    experience: str = '3+ years'
+    hobbies: Sequence[str] = 'Novels', 'Coffee', 'open source', 'clean code'
 
 
 @dataclass(frozen=True)
 class Skills:
-    languages = 'php', 'javascript', 'dart', 'javascript'
-    operation_systems = 'linux', 'unix'
-    test_frameworks = 'phpunit:', 'jest:', 'jasmine', 'nunit', 'ms test', 'karma', 'enzyme'
-    web_frameworks = 'angular.js', 'laravel','express.js ', 'vue.js', 'react native'
-    code_quality = 'php_codesniffer', 'phpmd (php mess detector)', 'phpstan', 'eslint', 'prettier', 'jshin', 'tslint (for angular)', 'eslint with react-specific plugins (for react)'
-    devops = 'jenkins', 'gitlab ci/cd', 'docker', 'kubernetes', 'terraform', 'azure devops', 'aws codepipeline'
-    version_control: Sequence[str] = 'git', 'gitHub', 'gitLab', 'git', 'bigbucket'
-    approaches: Sequence[str] = 'object oriented', 'RAD'
-    ongoing: Sequence[str] = 'angular.js'
+    languages: Sequence[str] = 'python', 'shell', 'dart', 'JavaScript'
+    operation_systems: Sequence[str] = 'linux', 'Unix'
+    test_frameworks: Sequence[str] = 'pytest', 'pyats', 'unittests', 'doctest', 'selenium', 'celery'
+    web_frameworks: Sequence[str] = 'flask', 'django', 'django rest-framework', 'react.js'
+    code_quality: Sequence[str] = 'flake8', 'mypy', 'pylint', 'black', 'pydocstyle'
+    devops: Sequence[str] = 'jenkins', 'travis', 'docker'
+    version_control: Sequence[str] = 'git'
+    approaches: Sequence[str] = 'object oriented', 'asyncio'
+    ongoing: Sequence[str] = 'vue.js'
 
 
 @dataclass(frozen=True)
 class Social:
-    github: str = 'https://github.com/RamsleyLichuma'
-    twitter: str = 'https://twitter.com/Lichuma_Ramsey'
+    github: str = 'https://www.github.com/labohkip81'
+    codewars: str = 'https://www.codewars.com/users/labohkip81'
+    twitter: str = 'https://twitter.com/kiplagat_laban'
     linkedin: str = 'https://www.linkedin.com/in/labohkip81'
-    instagram: str = 'https://www.instagram.com/lichuma_ramsley/'
-    work email: str = 'ramsleyworks@gmail.com'
+    portfolio: str = 'https://labohkip81.github.io'
+    email: str = 'labankiplagat81@gmail.com'
 
 Let's Connect!
 
