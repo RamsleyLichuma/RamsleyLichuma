@@ -37,6 +37,42 @@ Building the Future:
 
 I'm passionate about using my skills to create innovative web applications that solve real-world problems  and enhance user experiences  (Consider adding a small image of a globe or a handshake).
 
+Here's some Proffessional info about me👽
+
+from dataclasses import dataclass
+from typing import Sequence
+
+
+@dataclass(frozen=True)
+class Portfolio:
+    name: str = 'Ramlsey Lichuma'
+    location: str = 'Webuye Kenya'
+    profile: str = 'Php, Angular Dev, React Dev'
+    experience: str = '2+ years'
+    hobbies: Sequence[str] = 'Novels', 'Basketball', 'open source', 'Hikes', 'clean code'
+
+
+@dataclass(frozen=True)
+class Skills:
+    languages = 'php', 'javascript', 'dart', 'javascript'
+    operation_systems = 'linux', 'unix'
+    test_frameworks = 'phpunit:', 'jest:', 'jasmine', 'nunit', 'ms test', 'karma', 'enzyme'
+    web_frameworks = 'angular.js', 'laravel','express.js ', 'vue.js', 'react native'
+    code_quality = 'php_codesniffer', 'phpmd (php mess detector)', 'phpstan', 'eslint', 'prettier', 'jshin', 'tslint (for angular)', 'eslint with react-specific plugins (for react)'
+    devops = 'jenkins', 'gitlab ci/cd', 'docker', 'kubernetes', 'terraform', 'azure devops', 'aws codepipeline'
+    version_control: Sequence[str] = 'git', 'gitHub', 'gitLab', 'git', 'bigbucket'
+    approaches: Sequence[str] = 'object oriented', 'RAD'
+    ongoing: Sequence[str] = 'angular.js'
+
+
+@dataclass(frozen=True)
+class Social:
+    github: str = 'https://github.com/RamsleyLichuma'
+    twitter: str = 'https://twitter.com/Lichuma_Ramsey'
+    linkedin: str = 'https://www.linkedin.com/in/labohkip81'
+    instagram: str = 'https://www.instagram.com/lichuma_ramsley/'
+    work email: str = 'ramsleyworks@gmail.com'
+
 Let's Connect!
 
-Feel free to check out my projects on GitHub: Lichuma Ramsley on GitHub: https://github.com/leereilly
+Feel free to check out my projects on GitHub: Lichuma Ramsley on GitHub: https://github.com/RamsleyLichuma
