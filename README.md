@@ -52,4 +52,4 @@ echo "- Other: Responsive Web Design, RESTful APIs, MVC Architecture\n";
 echo "### Get in Touch:\n";
 echo "📧 Email: ramsley@example.com\n";
 echo "🌐 Portfolio: [ramslify.com](https://www.ramslify.com)\n";
-echo "🔗 LinkedIn: [linkedin.com/in/ramsley](https://www.linkedin.com/in/ramsley)\n";
+echo "🔗 LinkedIn: [linkedin.com/in/ramsley](https://www.linkedin.com/in/ramsley)\n";></php>
