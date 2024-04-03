@@ -1,12 +1,14 @@
 Hi there !
 
-I'm Lichuma Ramsley, a Fullstack Software Developer  fueled by a burning desire to craft dynamic and efficient web applications that not only look amazing  but also perform flawlessly .  Throughout my journey, I've honed my skills in a vast array of technologies (), allowing me to tackle projects from concept to completion  (insert a small collage of logos representing your core skillset here).
+I'm Lichuma Ramsley, a Fullstack Software Developer  fueled by a burning desire to craft dynamic and efficient web applications that not only look amazing  but also perform flawlessly .  Throughout my journey, I've honed my skills in a vast array of technologies (HTML/CSS JavaScript (including frameworks like React, Angular, or Vue.js) Responsive design
+CSS preprocessors (such as Sass or Less) Web accessibility standards Version control systems (e.g., Git)), allowing me to tackle projects from concept to completion.
 
 Frontend Finesse:
 
 Angular, React, Vue.js: Building interactive and user-friendly interfaces is my forte . Whether it's a single-page application or a complex web platform, I can bring your vision to life with these powerful frameworks .
 JavaScript & TypeScript: The building blocks of any modern web application, I have a deep understanding of these languages and their nuances .
-Figma: Collaboration is key! This design tool allows me to work seamlessly with designers to translate stunning mockups into functional UIs ✨.
+Figma: Collaboration is key! This design tool allows me to work seamlessly with designers to translate stunning mockups into functional UIs ✨
+
 Backend Brawn:
 
 Advanced PHP: My expertise goes beyond the basics . I can leverage the power of PHP frameworks like Laravel and CodeIgniter to build robust and scalable backend systems .
