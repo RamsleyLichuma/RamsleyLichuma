@@ -39,48 +39,17 @@ Building the Future:
 
 I'm passionate about using my skills to create innovative web applications that solve real-world problems  and enhance user experiences  
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ramsley Lichuma - Full Stack Software Developer</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 20px;
-            background-color: #f4f4f4;
-        }
-        .container {
-            max-width: 600px;
-            margin: auto;
-            background: #fff;
-            padding: 20px;
-            border-radius: 5px;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            color: #333;
-            text-align: center;
-        }
-        p {
-            color: #666;
-            line-height: 1.6;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Ramsley Lichuma - Full Stack Software Developer</h1>
-        <p>Welcome to my profile! I'm Ramsley Lichuma, a passionate full stack software developer with expertise in building robust and scalable web applications. With a keen eye for detail and a commitment to delivering high-quality code, I thrive in collaborative environments where I can contribute my skills and learn from others.</p>
-        <p>Feel free to reach out to me at [insert your contact information here] to discuss potential collaborations or opportunities.</p>
-        <p>Let's innovate together!</p>
-    </div>
-</body>
-</html>
+ <?php
 
-
-
-
-    
+echo "## Meet Ramsley Lichuma - Full Stack Software Developer\n";
+echo "Hello there! I'm Ramsley Lichuma, a passionate full-stack software developer based in [YourLocation]. With a strong foundation in both frontend and backend development, I strive to create robust and scalable solutions to solve complex problems.\n";
+echo "### Skills:\n";
+echo "- Frontend Development: HTML, CSS, JavaScript, React.js\n";
+echo "- Backend Development: PHP, Node.js, Express.js\n";
+echo "- Database Management: MySQL, MongoDB\n";
+echo "- Version Control: Git, GitHub\n";
+echo "- Other: Responsive Web Design, RESTful APIs, MVC Architecture\n";
+echo "### Get in Touch:\n";
+echo "📧 Email: ramsley@example.com\n";
+echo "🌐 Portfolio: [ramslify.com](https://www.ramslify.com)\n";
+echo "🔗 LinkedIn: [linkedin.com/in/ramsley](https://www.linkedin.com/in/ramsley)\n";
