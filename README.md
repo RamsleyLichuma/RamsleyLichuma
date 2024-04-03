@@ -37,5 +37,47 @@ I believe in writing code that's not just functional, but also clean, maintainab
 
 Building the Future:
 
-I'm passionate about using my skills to create innovative web applications that solve real-world problems  and enhance user experiences  (Consider adding a small image of a globe or a handshake).
+I'm passionate about using my skills to create innovative web applications that solve real-world problems  and enhance user experiences  
 
+
+Here's some Proffessional info about me👽
+'''
+from dataclasses import dataclass
+from typing import Sequence
+
+@dataclass(frozen=True)
+class Portfolio:
+    name: str = 'Laban Kiplagat'
+    location: str = 'Nairobi Kenya'
+    profile: str = 'Python-Django Developer, Linux User, React Dev'
+    experience: str = '3+ years'
+    hobbies: Sequence[str] = 'Novels', 'Coffee', 'open source', 'clean code'
+
+
+@dataclass(frozen=True)
+class Skills:
+    languages: Sequence[str] = 'python', 'shell', 'dart', 'JavaScript'
+    operation_systems: Sequence[str] = 'linux', 'Unix'
+    test_frameworks: Sequence[str] = 'pytest', 'pyats', 'unittests', 'doctest', 'selenium', 'celery'
+    web_frameworks: Sequence[str] = 'flask', 'django', 'django rest-framework', 'react.js'
+    code_quality: Sequence[str] = 'flake8', 'mypy', 'pylint', 'black', 'pydocstyle'
+    devops: Sequence[str] = 'jenkins', 'travis', 'docker'
+    version_control: Sequence[str] = 'git'
+    approaches: Sequence[str] = 'object oriented', 'asyncio'
+    ongoing: Sequence[str] = 'vue.js'
+
+
+@dataclass(frozen=True)
+class Social:
+    github: str = 'https://www.github.com/labohkip81'
+    codewars: str = 'https://www.codewars.com/users/labohkip81'
+    twitter: str = 'https://twitter.com/lichumaramsley'
+    linkedin: str = 'https://www.linkedin.com/in/RamsleyLichuma'
+    portfolio: str = 'https://labohkip81.github.io'
+    email: str = 'ramsleyworks@gmail.com@gmail.com'
+
+'''
+
+Let's Connect!
+
+Feel free to check out my projects on GitHub: Lichuma Ramsley on GitHub: https://github.com/RamsleyLichuma
